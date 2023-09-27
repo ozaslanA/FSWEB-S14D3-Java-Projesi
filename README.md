@@ -56,7 +56,7 @@ Aşağıdaki gibi bir input değeri için output kısmında her araç türünün
  * ```HybridCar``` üç sınıf değişkeni içerir. ```avgKmPerLitre: double, batterySize: int, cylinders: int```
  * Bu üç farklı sınıfta ```startEngine ve drive``` metodlarını engine(motor) tiplerine göre farklı şekillerde çağırırlar.
  * Tüm dizaynı yapmak senin görevin. Alt sınıflar ```CarSkeleton``` içerisindeki bazı metodları ya da hepsini Override etmeli mi ?
- * Bir adet Main sınıfı tanımlayınız ve tüm sınıfların objelerinden polymorphism kurallarına uyacak şekilde birer instance oluşturunuz.
+ * Bir adet com.workintech.Pasific.Main.Main sınıfı tanımlayınız ve tüm sınıfların objelerinden polymorphism kurallarına uyacak şekilde birer instance oluşturunuz.
  * Her instance ile sınıfın davranışını test edin. Bir tane metodunuz sınıfın tipini ekrana basmalı.
 
 ### INPUT
