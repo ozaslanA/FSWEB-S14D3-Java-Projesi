@@ -10,7 +10,7 @@ public class CarSkeleton {
     }
 
     public String getName() {
-        return name;
+        return name ;
     }
 
     public String getDescription() {
